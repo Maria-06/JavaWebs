@@ -4,10 +4,10 @@ Creación del Proyecto con el IDE intellij en su ultima versión, mediante el Se
 eclipse temurin versión 17.
 
 <h3>Formulario</h3> 
-![image](https://user-images.githubusercontent.com/128232148/233503876-7976201b-3394-4e68-a320-31bf70293839.png)
+<img src="https://user-images.githubusercontent.com/128232148/233503876-7976201b-3394-4e68-a320-31bf70293839.png">
 
 <p><i>After having created structure of workshoop1 JavaWeb</i>  || Despues de haber creado la estructura en el taller1 JavaWeb.</p>
-<p>__________________________________________________________________________________________________________________________________________________________________________</p>
+<p>__________________________________________________________________________________________________________________________________________________</p>
 
 # JavaWeb_Taller_2_y_3
 
