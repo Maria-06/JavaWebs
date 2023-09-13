@@ -295,6 +295,67 @@ Creación del Repository Pattern
 <p align="center"> se crea el  archivo "TestProductRepositoryImpl" en donde se pobrarán los metodos</p>
   <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/6e290600-7ad7-4ac5-8691-c9c45f00fd2a">
 </p>
+<p>______________________________________________________________________________________________________________________________</p>
+
+# JavaWeb_8_y_9
+<h1>Forwarding and Redirection</h1>
+
+<h3 align="center">Form User</h3>
+  <p align=center>
+    <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/e86f03ef-f409-4cc9-9493-bd9b6db875b3">
+  </p>
+  
+<h3 align="center">Form Categoria</h3>
+  <p align=center>
+    <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/cbaf6d29-ba75-48e8-9153-b7f79a3c7d53">
+  </p>
+ 
+<h3 align="center">Form Producto</h3>
+  <p align=center>
+    <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/b3129304-ff13-4be5-9243-b6f9d27cbda4">
+  </p>
+
+
+<h2 align="center">Resultados de Registros de las tablas</h2>
+  <p align=center>
+      <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/924efb9a-e796-42d2-a5dd-159b879eab57">
+  </p>
+  
+  <p align=center>
+    <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/241a2ce0-00a0-411d-9bdb-466250c0f974">
+  </p>
+  
+  <p align=center>
+    <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/41674b47-3763-44a2-ac0c-10d177f8384d">
+  </p>
+
+<h6>Hay dos metodos para conectar el servidor web a travez del protocolo HTTP :</h6>
+
+  - **Redirect:** Es utilizado para enlazar paginas externas
+  - **Forwarding:** Es utililzado para enlazar paginas creadas en el sistema
+
+<p>Se creará una carpeta servlet en donde mediante el archivo con nombre: "UserRegistrerServlet" en donde se registrarán las tablas: Usuario, Categoria y Producto</p>
+<p align=center>
+  <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/64261d8c-155e-40cb-9ba7-24fac7e685a1">
+</p>
+<p> Y así con las otras dos tablas</p>
+
+<p>Dentro del servlet se crea otro archivo llamado: "UserForwardingServlet" en donde se implementa el metodo doPost para poder registrar la tabla</p>
+<p align=center>
+  <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/777e2ef4-d138-4d9b-a577-8dec8cf8da46">
+</p>
+
+<p>Y el nombre agregado en la anotación "@WebServlet" del archivo "UserRegistrerServlet" se enlaza en el archivo de interfaz el cual se identifica con la extensión .jsp</p>
+<p align=center>
+   <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/f74a351a-0564-48cd-b2c0-14e6d01b5d2e">
+</p>
+
+<p>Por otro lado, para implementar el Redirection se creará un archivo:  "SenaForwardingServlet" en el se implementara el metodo doGet que permitira conectar a la pagina de externa,sin embargo, para que sea completamente funcional,tambien, hay que enlazarlo a una interfaz</p>
+<p align=center>
+   <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/153e48fe-e557-4a10-bca9-2b55f1c8e08b">
+  <img src="https://github.com/Maria-06/JavaWeb_8_y_9/assets/128232148/728e590b-128c-4ec2-ae77-2f192cd6a885">
+</p>
+
 
 
 
