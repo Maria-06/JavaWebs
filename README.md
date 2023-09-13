@@ -7,7 +7,8 @@ eclipse temurin versión 17.
 ![image](https://user-images.githubusercontent.com/128232148/233503876-7976201b-3394-4e68-a320-31bf70293839.png)
 
 <p><i>After having created structure of workshoop1 JavaWeb</i>  || Despues de haber creado la estructura en el taller1 JavaWeb.</p>
-___________________________________________________________________________________________________________________________________________________________________________
+<p>__________________________________________________________________________________________________________________________________________________________________________</p>
+
 # JavaWeb_Taller_2_y_3
 
 <h6><i>User registration and database connection script</i> || Registro de usuario y script de la conexión a la base de datos </h6>
@@ -174,7 +175,8 @@ ________________________________________________________________________________
     <img src="https://user-images.githubusercontent.com/128232148/236713704-c58d5aa6-d195-4c10-8405-ebb312b80065.png">
 </p>
 
-___________________________________________________________________________________________________________________________________________________________________________________
+<p>__________________________________________________________________________________________________________________________________________________________________________</p>
+
 # JavaWeb_Taller_4_y_5
 Conexión de Base de Datos y Encriptación de Contraseña
 <p>Para crear la conexión es necesario dentro de la carpeta java de la estructura del documento ,luego, allí se crea una clase con el nombre BasicConexion </p>
