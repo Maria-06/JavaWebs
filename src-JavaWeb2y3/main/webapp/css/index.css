@@ -1,0 +1,16 @@
+h3{
+    display:flex;
+    justify-content: center;
+    color: #6610f2 ;
+}
+
+.form{
+    color: #adb5bd;
+    opacity: 70%;
+}
+
+button{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
