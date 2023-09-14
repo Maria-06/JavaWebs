@@ -175,7 +175,7 @@ eclipse temurin versión 17.
     <img src="https://user-images.githubusercontent.com/128232148/236713704-c58d5aa6-d195-4c10-8405-ebb312b80065.png">
 </p>
 
-<p>___________________________________________________________________________________________________________________________________________________________</p>
+<p>__________________________________________________________________________________________________________________________</p>
 
 # JavaWeb_Taller_4_y_5
 Conexión de Base de Datos y Encriptación de Contraseña
@@ -188,18 +188,18 @@ Conexión de Base de Datos y Encriptación de Contraseña
 
 <p>Conexión Sainglenton Super Usuario</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/310b6bd4-eca9-4cec-978b-47092461d432">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/310b6bd4-eca9-4cec-978b-47092461d432">
 </p>
 
 <p>Conexión Con Recursos Super Usuario</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/ea347628-772f-46c3-9bca-3cd7582e06b2">
+   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/ea347628-772f-46c3-9bca-3cd7582e06b2"> 
 </p>
 
 <p>Conexión Pool Super Usuario</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/59304a45-f985-467b-ad16-e6eb6a1de5d3">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/7424ce1a-eae4-4d75-a49c-93b79dfa0175">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/59304a45-f985-467b-ad16-e6eb6a1de5d3">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/7424ce1a-eae4-4d75-a49c-93b79dfa0175">
 </p>
 
 </p>
@@ -209,71 +209,67 @@ Conexión de Base de Datos y Encriptación de Contraseña
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/d69c605f-d876-450d-a1e2-4b8ca88928b5">
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/e2214727-df3f-4647-8330-6a9ade1e9465">
   <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/ab507da1-5242-4c63-97ea-446251aed5ba">
-
 </p>
 <p>Crear cuenta de usuario con contraseña desde PhpMyAdmin </p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/40b553e5-c6fe-4562-9562-2125ff70b8f4">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/25523ce7-3611-4b25-8a21-8d8b1a72a3de">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/fc69009a-94a3-4dea-a488-711d6589d99f">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/d0e67837-49ba-49ef-af43-49daaab24f06">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/107c45d1-95f8-469c-8771-6640fe66afef">
-
-</p>
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/40b553e5-c6fe-4562-9562-2125ff70b8f4">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/25523ce7-3611-4b25-8a21-8d8b1a72a3de">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/fc69009a-94a3-4dea-a488-711d6589d99f">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/d0e67837-49ba-49ef-af43-49daaab24f06">
+ </p>
 
 <p>Resultado de Conexión con cuenta de Usuario</p>
 <p align="center">
     <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/4ebc0915-475a-44d5-b0af-9235d7d6d1b3">
     <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/6762ced9-057f-4d60-80de-f0cb156e2751">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/ceb7f12a-472f-4331-91ae-60e9870e00c1">
-
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/1031ac5e-b3dc-43de-b85d-419e4ca1e333">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/ceb7f12a-472f-4331-91ae-60e9870e00c1">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_4_y_5/assets/128232148/1031ac5e-b3dc-43de-b85d-419e4ca1e333">
 </p>
 
-<p>______________________________________________________________________________________________________________________________________________________</p>
+<p>_______________________________________________________________________________________________________________________</p>
 # JavaWeb_Taller_6
 Creación del Repository Pattern 
 
 <h4>Creación Repositorio</h4>
 <p>Aquí se crean los metodos </p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/a69c33c1-315b-48ea-ab45-5decd4a7f2ac">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/a69c33c1-315b-48ea-ab45-5decd4a7f2ac">
 </p>
 
 <h4>Implementación del Repositorio al Usuario</h4>
 <p>Aquí es necesario sobre escribir cada metodo aplicando los atributos del usuario</p>
 <p align="center">
   <p>Metodo Crear</p>
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/f030e352-ed27-4b0a-aa27-27f0818d28c7">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/f030e352-ed27-4b0a-aa27-27f0818d28c7">
   <p>Metodo Listar Todos los Usuarios</p>
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/f6710fb6-3379-40a5-b886-a041575642e3">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/f6710fb6-3379-40a5-b886-a041575642e3">
   <p>Metodo Buscar por Id</p>
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/ac8a1c86-a918-42e1-8c04-076a1a73ad7a">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/ac8a1c86-a918-42e1-8c04-076a1a73ad7a">
   <p>Metodo Guardar</p>
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/78b35e36-8044-4772-ada2-405238c927b3">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/78b35e36-8044-4772-ada2-405238c927b3">
   <p>Metodo Eliminar</p>
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/7b4604e2-157b-4691-a112-4e6bc221d1bb">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_6/assets/128232148/7b4604e2-157b-4691-a112-4e6bc221d1bb">
 </p>
 
 <p>Se repite el mismo proceso para las tablas deCategoria y Pro</p>
 
-<p>_____________________________________________________________________________________________________________________________________________________</p>
+<p>__________________________________________________________________________________________________________</p>
 # JavaWeb_Taller_7
 
 ### Ampliación Repository
 
 <p align="center">Aqui se crearán en la carpeta del modelo dos archivos nuevos para Categoria y Producto</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/e1f4cbf6-cdc5-4381-a44b-f5dd70ff0c1d">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/cfe96f93-9459-49fa-a4fa-3eff7fd49557">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/e1f4cbf6-cdc5-4381-a44b-f5dd70ff0c1d">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/cfe96f93-9459-49fa-a4fa-3eff7fd49557">
 </p>
 
 <p>Luego, dentro de la carpeta repository se crearán los metodos correspondientes</p>
 <p align="center"> se crea el  archivo "CategoryRepositoryImpl" y se implementan los metodos de su repositorio</p>
 <p align="center">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/eccd27b5-2c80-4e39-8eec-04cf5f5dd218">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/a838206c-c04d-4157-82f7-55097d9bbbb6">
-  <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/67e271df-8407-474f-be8b-041367b55458">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/eccd27b5-2c80-4e39-8eec-04cf5f5dd218">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/a838206c-c04d-4157-82f7-55097d9bbbb6">
+    <img src="https://github.com/Maria-06/JavaWeb_Taller_7/assets/128232148/67e271df-8407-474f-be8b-041367b55458">
 </p>
 
 <p align="center">se crea el  archivo "ProductCategoryImpl" y se implementan los metodos de su repositorio</p>
